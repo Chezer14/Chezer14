@@ -19,8 +19,6 @@ Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Chezer14&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Chezer14&limit=5&theme=dark&combine_all_yearly_contributions=true)
